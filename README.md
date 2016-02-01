@@ -1,3 +1,3 @@
 # WinFLASHTool
 
-Read SD Cards
+Write and Read SD Cards to img file
